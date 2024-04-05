@@ -1,5 +1,4 @@
-# Real-Time-Cryptocurrency-Analysis-and-Visualization-with-Python
-Cryptocurrency analysis and visualization using Python
+# Real Time Cryptocurrency Analysis and Visualization with Python
 
 ## Descripton:
 Cryptocurrency markets are notoriously volatile, making real-time analysis crucial for informed decision-making. This project leverages Python to extract data from the CoinMarketCap API, focusing on the top 15 cryptocurrencies. The automated process runs every 30 minutes over a span of 5 hours, providing a comprehensive snapshot of market movements and trends.
